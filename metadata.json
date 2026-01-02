@@ -1,0 +1,7 @@
+{
+  "name": "WebGenie",
+  "description": "A high-performance web platform for benchmarking Gene Regulatory Network (GRN) algorithms using BEELINE resources. Features interactive network visualization, metric comparison, and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
